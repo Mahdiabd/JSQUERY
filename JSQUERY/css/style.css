@@ -1,0 +1,9 @@
+#FAM{align-items: center; width: 100%; height: 42px; display: inline-block; color: black; background: black; padding: 1px; background-color: white}
+button:hover{background:grey}
+#hide{display: none}
+#title:hover{background: yellow}
+#TUN{text-align: justify; padding-left: 55px; padding-right: 55px; border-style: solid; }
+#G{text-align: center; color: red}
+button{color: white; border: solid ;text-align: center;background-color:  rgb(66, 65, 65); height: 40px; width: 20%; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: bold; font-size: 4mm}
+select{border: solid; color: #504f4f; text-align: center; width: 20%; height: 40px; border: solid;text-align: center;color:white; background: rgb(66, 65, 65); height: 40px; width: 255px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: bold; font-size: 4mm}
+img {    border-radius: 8px;}
